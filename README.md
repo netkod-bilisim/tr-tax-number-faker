@@ -25,8 +25,8 @@
 <a href="https://scrutinizer-ci.com/g/netkod-bilisim/tr-tax-number-faker/badges/quality-score.png?b=master" rel="nofollow">
     <img src="https://scrutinizer-ci.com/g/netkod-bilisim/tr-tax-number-faker/badges/quality-score.png?b=master" alt="Scrutinizer">
 </a>
-<a href="https://github.styleci.io/repos/671831827?branch=master">
-    <img src="https://github.styleci.io/repos/671831827/shield?branch=master" alt="StyleCI">
+<a href="https://github.styleci.io/repos/672291385?branch=master">
+    <img src="https://github.styleci.io/repos/672291385/shield?branch=master" alt="StyleCI">
 </a>
 
 </div>
